@@ -1,3 +1,3 @@
-# Projects_for_data_science
+# Projects for data science
 
-This is a reprository that is a collection of guided and unguided projects from Kaggle and DataCamp.
+This is a repo that is a collection of guided and unguided projects from Kaggle and DataCamp.
